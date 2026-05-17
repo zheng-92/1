@@ -1,0 +1,8 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.pdf
+*.db
+models_cache/
+
